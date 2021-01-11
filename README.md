@@ -11,7 +11,7 @@
 - [Read 08 Expanding CSS Layout](Read08.md)
 - [Read 09 Forms & Events](Read09.md)
 - [Read 10 Debugging JavaScript](Read10.md)
-- [Read 11 Assorted Topics](Read11.md) --
+- [Read 11 Assorted Topics](Read11.md) 
 - [Read 12 Documents for HTML Canvas Element & Chart JS](Read12.md)
 - [Read 13 Local Storage](Read13.md)
 - [Read 14a CSS Transforms Transitions and Animations](Read14A.md)
