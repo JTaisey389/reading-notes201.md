@@ -16,7 +16,7 @@
 - [Read 14b What Google Learned About Teams](Read14A.md)
 
 ### Link to Code 102
-- [Code 102 Reading Notes](jtaisey389.github.io/reading-notes/)
+- [Code 102 Reading Notes](https://jtaisey389.github.io/reading-notes201.md/)
 
 ### <== Back to Code 201 Reading Notes
 - [Reading Notes 201](https://github.com/JTaisey389/reading-notes201.md.git)
