@@ -11,11 +11,11 @@
 - [Read 08 Expanding CSS Layout](Read08.md)
 - [Read 09 Forms & Events](Read09.md)
 - [Read 10 Debugging JavaScript](Read10.md)
-- [Read 11 Assorted Topics](Read11.md)
+- [Read 11 Assorted Topics](Read11.md) --
 - [Read 12 Documents for HTML Canvas Element & Chart JS](Read12.md)
 - [Read 13 Local Storage](Read13.md)
 - [Read 14a CSS Transforms Transitions and Animations](Read14A.md)
 - [Read 14b What Google Learned About Teams](Read14A.md)
 
 ### Link to Code 102
-- [Code 102 Reading Notes](https://jtaisey389.github.io/reading-notes201.md/)
+- [Code 102 Reading Notes](https://jtaisey389.github.io/reading-notes/)
