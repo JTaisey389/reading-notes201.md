@@ -121,7 +121,27 @@ Example: < address>< /address> Address tag
   <p>742 Evergreen Terrace, Springfield.</p>
 </address>
 
+### Changes to content
+- Changing content in HTML also gives you the functionality to insert or delete elements within a document. These are < ins> and < del> elements, which are insert and delete. 
 
+Example: < ins>< /ins> Insert tag, < del>< /del> Delete tag
+<p>It was the <del>worst</del> <ins>best</best> idea she ever had.</p>
+
+- In addition to those elements a < s> element indicates something that is no longer accurate or relevant.
+Example: < s>< /s> Strikethrough tag
+
+<p>Laptop computer: Apple MacBook Pro</p>
+<p><s>Was $2,995</s></p>
+<p>Now only $2,994</p>
+
+### Introductions to CSS
+What we will cover is this section:
+
+  **1. What CSS Does**
+
+  **2. How CSS Workss**
+
+  **3. Rules, Properties, and Values**
 
 ### Table of Contents
 - [Read 01 Introductions to HTML and JavaScript](Read01.md)
