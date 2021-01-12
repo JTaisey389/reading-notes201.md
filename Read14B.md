@@ -5,6 +5,7 @@
 
 
 ### Table of Contents
+- [Read 01 Introductions to HTML and JavaScript](Read01.md)
 - [Read 02 HTML CSS Javascript The Introduction](Read02.md)
 - [Read 03 HTML List CSS Boxes JS Control Flow](Read03.md)
 - [Read 04 HTML Links CSS Layout JS Functions](Read04.md)
