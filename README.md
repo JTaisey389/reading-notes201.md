@@ -27,3 +27,5 @@ Hello everyone! My name is Jason Taisey and I come from the *Project Management*
 
 ### Link to Code 102
 - [Code 102 Reading Notes](https://jtaisey389.github.io/reading-notes/)
+
+Pizza is life
