@@ -83,6 +83,43 @@ Examples: < strong>< /strong> Strong tag, < em>< /em>
 
 <p>I think <em>Marsha</em> broke her nose</p>
 
+### Quotations
+- Quotations consist of two elements used to markup quotations. 
+
+Examples: < blockquote>< /blockquote> Blockquote tags, < q>< /q> Quote tag
+<blockquote cite"http://en.wikipedia.org/wiki/Winnie-the-Pooh">
+  <p>Did you ever stop to think, and forget to start again</p>
+</blockquote>
+<p>As A.A. Milne said, <q>Some people talk to animals. Not many listent though. That's the problem</q></p>
+
+### Abbreviations
+- Abbreviations are a way that the user can show a title of an attribute. For this example I will spell the code out followed by demonstrating the codde. 
+
+Example: Spelled out
+< p>< abbr title="Professor">Prof< /abbr> Stephen Hawking is a theoretical physicist and cosmologist.< /p>
+< p>< acronym title="National Aeornautics and Space Administration">NASA< /acronym> do some crazy space stuff.< /p>
+
+Example: In Use
+<p><abbr title="Professor">Prof</abbr> Stephen Hawking is a theoretical physicist and cosmologist.</p>
+<p><acronym title="National Aeornautics and Space Administration">NASA</acronym> do some crazy space stuff.</p>
+
+### Citations & Defenitions
+- Building upon the framework of HTML, citations and definitions are great attributes to format your webpage. Cite allows you to refrence someones work like that of a book, and dfn terminoloy to a user.
+
+Example: < cite>< /cite> Citation tags, < dfn>< /dfn> tags
+<p><cite>A Brief History of Time</cite> by Stephen Hawking has sold over ten million copies worldwide. </p>
+
+<p>A <dfn>black hole</dfn> is a region of space from which nothing, not even light, can escape.</p>
+
+### Author Details
+- The < address> element has a specific use: to contain contact details for the author of the page.
+
+Example: < address>< /address> Address tag
+<address>
+  <p><a href="mailto:homer@example.org">
+    homer@example.org</a></p>
+  <p>742 Evergreen Terrace, Springfield.</p>
+</address>
 
 
 
