@@ -6,7 +6,7 @@
   3. For those who don't know me I have my about me section bellow!
 
 ### About Me
-Hello everyone! My name is Jason Taisey and I come from the *Project Management* industry. In 2020 I realised that the career trajectory that  I was on did not make me happy, and I realised towards the end of 2020 that I needed to change **Change** is what i did and I make the decision to leave my full time job as a *Project Manager* to go back to school full time. 
+Hello everyone! My name is Jason Taisey and I come from the *Project Management* industry. In 2020 I realised that the career trajectory that  I was on did not make me happy, and I realised towards the end of 2020 that I needed to change. **Change** is what i did and I make the decision to leave my full time job as a *Project Manager* to go back to school full time. 
 
 ### Table of Contents
 - [Read 02 HTML CSS Javascript The Introduction](Read02.md)
