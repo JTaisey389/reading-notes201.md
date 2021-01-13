@@ -57,12 +57,11 @@ Examples of white space: The whitespace will display each of the paragraphs and 
 - Similar to white space line breaks and horizontal rules are a great tool for displaying the information to the user in a different way. 
 
 Examples: < br /> Line breaks & < hr />
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br/> Arcu odio ut sem nulla pharetra diam sit amet. <br/> Nulla malesuada pellentesque elit eget.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br> Arcu odio ut sem nulla pharetra diam sit amet. <br/> Nulla malesuada pellentesque elit eget.
 
 Rutrum tellus pellentesque eu tincidunt. Est ultricies integer quis auctor elit sed vulputate. In hendrerit gravida rutrum quisque non tellus orci ac.
-<hr/> Leo duis ut diam quam nulla porttitor massa id neque. Urna nunc id cursus metus aliquam eleifend mi. Faucibus pulvinar elementum integer enim. In arcu cursus euismod quis. Rutrum tellus pellentesque eu tincidunt tortor aliquam. Ut venenatis tellus in metus vulputate eu scelerisque felis.
-<br/>
-<br/>
+<hr> Leo duis ut diam quam nulla porttitor massa id neque. Urna nunc id cursus metus aliquam eleifend mi. Faucibus pulvinar elementum integer enim. In arcu cursus euismod quis. Rutrum tellus pellentesque eu tincidunt tortor aliquam. Ut venenatis tellus in metus vulputate eu scelerisque felis.</hr>
+
 
 ### Visual Editors & Their Code Views
 - Content management systems and HTML editors such as VS Code usually have two views of the page you are creating. A visual editor and a code view. 
@@ -134,7 +133,6 @@ Example: < s>< /s> Strikethrough tag
 <p><s>Was $2,995</s></p>
 <p>Now only $2,994</p>
 
-<br/>
 
 ### ***Introductions to CSS***
 What we will cover in this section:
@@ -189,6 +187,25 @@ Overview of Selectors:
 
 ### Inheritance
 - If you specify the font-family or color properties on a body element they will apply to most child elements. That is because the value of the font-family property is inherited by child elements. 
+
+### Introduction to JavaScript
+What we will cover in this section:
+1. The language syntax and grammar
+2. Giving instructions 
+
+### Statements
+- A script is a series of instructions that a computer can follow one-by-one. Each individual instruction or step is known as a statement.
+
+### Comments
+- Wiriting comments to explain what your code does is a good practice. It's a great way for you to navigate the written code and understand what you have written. 
+
+### What is a variable
+- A script will have to temporarily store the bits of information it needs to do its job. It can sotre this data in variables, variables change or vary each time a script runs. 
+
+### Data Types
+- JavaScript destinguishes between number, strings, and true or false values known as booleans. These are all data types which include, numbers, strings and booleans.
+### Arrays
+- An array is a special type of variable. It doesn't just store one value; it stores a list of values. Within arrays you have values that are accessed as if they are in a numbered list. 
 
 ### Table of Contents
 - [Read 01 Introductions to HTML and JavaScript](Read01.md)
