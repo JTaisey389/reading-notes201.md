@@ -36,34 +36,20 @@ Unordered List
 
 ### Defenition Lists and Nested Lists
 - Examples: < dl>< /dl> Defenition list tag, < dt>< /dt> DT contains the term being defined, < dd>< /dd> DD contains the defenition
-
-< dl>
- < dt>Box< /dt>
- < dd>An object at which can contain items, or information within< /dd>
- < ul>
- < li>Used for moving< /li>
- < li>Used for storage
- < ul>
- < li>Information Storage< /li>
- < li>Contaninment of substance< /li>
- < /ul>
- < /li>
- < li>Boxes can be contained within one another< /li> 
- < /ul>
  
-<dl>
-<dt>Box</dt>
-<dd>An object at which can contain items, or information within</dd>
-<ul>
-<li>Used for moving</li>
-<li>Used for storage
-<ul>
-<li>Information Storage</li>
-<li>Contaninment of substance</li>
-</ul>
-</li>
-<li>Boxes can be contained within one another</li> 
-</ul>
+`<dl>`
+`<dt>Box</dt>`
+`<dd>An object at which can contain items, or information within</dd>`
+`<ul>`
+`<li>Used for moving</li>`
+`<li>Used for storage</li>`
+`<ul>`
+`<li>Information Storage</li>`
+`<li>Contaninment of substance</li>`
+`</ul>`
+`</li>`
+`<li>Boxes can be contained within one another</li> `
+`</ul>`
 
 ## ***Boxes***
 What we will cover in this section:
