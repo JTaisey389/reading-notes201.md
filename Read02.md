@@ -62,7 +62,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Rutrum tellus pellentesque eu tincidunt. Est ultricies integer quis auctor elit sed vulputate. In hendrerit gravida rutrum quisque non tellus orci ac.
 <hr> Leo duis ut diam quam nulla porttitor massa id neque. Urna nunc id cursus metus aliquam eleifend mi. Faucibus pulvinar elementum integer enim. In arcu cursus euismod quis. Rutrum tellus pellentesque eu tincidunt tortor aliquam. Ut venenatis tellus in metus vulputate eu scelerisque felis.</hr>
 
-
 ### Visual Editors & Their Code Views
 - Content management systems and HTML editors such as VS Code usually have two views of the page you are creating. A visual editor and a code view. 
 
@@ -133,15 +132,14 @@ Example: < s>< /s> Strikethrough tag
 <p><s>Was $2,995</s></p>
 <p>Now only $2,994</p>
 
-
 ### ***Introductions to CSS***
 What we will cover in this section:
 
- **1. What CSS Does**
+ 1. What CSS Does**
 
- **2. How CSS Works**
+ 2. How CSS Works**
 
- **3. Rules, Properties, and Values**
+ 3. Rules, Properties, and Values**
 
 ### Understanding CSS: Thinking within the box
 - To understand how CSS works is to imagine there is an invisible box around every HTML element. With CSS this allows you to create rules that control the way that each individual box and the content of that box is presented.
@@ -188,7 +186,7 @@ Overview of Selectors:
 ### Inheritance
 - If you specify the font-family or color properties on a body element they will apply to most child elements. That is because the value of the font-family property is inherited by child elements. 
 
-### Introduction to JavaScript
+### ***Introduction to JavaScript***
 What we will cover in this section:
 1. The language syntax and grammar
 2. Giving instructions 
