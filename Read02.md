@@ -4,11 +4,11 @@
 ### ***Text in HTML***
 What we will cover is this section:
 
-  **1. Headings and Paragraphs**
+  1. Headings and Paragraphs**
 
-  **2. Bold, Italic, Emphasis**
+  2. Bold, Italic, Emphasis**
 
-  **3. Structural and semantic markup**
+  3. Structural and semantic markup
 
 ### Headings & Paragraphs 
 As you create a web page, you add tags known as markup to the contents of the page. Tags provide extra meaning and allow browsers to show users the appropriate structure for the page.
