@@ -130,12 +130,11 @@ Example: < s>< /s> Strikethrough tag
 
 ### ***Introductions to CSS***
 What we will cover in this section:
+ 1. What CSS Does
 
- 1. What CSS Does**
+ 2. How CSS Works
 
- 2. How CSS Works**
-
- 3. Rules, Properties, and Values**
+ 3. Rules, Properties, and Values
 
 ### Understanding CSS: Thinking within the box
 - To understand how CSS works is to imagine there is an invisible box around every HTML element. With CSS this allows you to create rules that control the way that each individual box and the content of that box is presented.
@@ -144,11 +143,11 @@ What we will cover in this section:
 - CSS will contain a selector and a declaration. 
 
 Example: p {font-family: times;}
- - P is the selector and within the currly brackets is the declaration
+- P is the selector and within the currly brackets is the declaration
 
 Within declarations, you have a property and a value. 
 Example: {font-family: Arial; color: yellow;}
- - The property is the font family with the value being Arial.
+- The property is the font family with the value being Arial.
 
 ### External CSS
 - With CSS you can link external documents to CSS. If you have an HTML page you would need to link your CSS to that sheet. 
@@ -164,15 +163,15 @@ You are probably asking yourself what did I just type. Well here is the explanat
 - There are multiple types of selectors that allow you to target specific rules to an HTML element.
 
 Overview of Selectors:
- - Universal Selector: * {} These target all elements on a page
- - Type Selector: h1, h2,h3, {} Targets specific elements
- - Class Selector: .note {} Targets any element whose class attribute has a value of note
- p.note {} Targets only < p> elements whose class attribute has a value of note
- - ID Selector: #introduction {} Targets elements whose id attribute has a value of introduction
- - Child Selector: li>a {} Targets any < a> elements that are children of an < li> element
- - Descendant Selector: p a {} Targets and < a> elements that sit inside a < p> element, even if there are other elements nested between them
- - Adjacent Sibiling Selector: hl+p {} Targets the first < p> element after any < h1> element, but not other < p> elements
- - General Sibling Selector: hl~p {} If you had two < p> elements that are sibilings of an < h1> element, this rule would apply.
+- Universal Selector: * {} These target all elements on a page
+- Type Selector: h1, h2,h3, {} Targets specific elements
+- Class Selector: .note {} Targets any element whose class attribute has a value of note
+  p.note {} Targets only < p> elements whose class attribute has a value of note
+- ID Selector: #introduction {} Targets elements whose id attribute has a value of introduction
+- Child Selector: li>a {} Targets any < a> elements that are children of an < li> element
+- Descendant Selector: p a {} Targets and < a> elements that sit inside a < p> element, even if there are other elements nested between them
+- Adjacent Sibiling Selector: hl+p {} Targets the first < p> element after any < h1> element, but not other < p> elements
+- General Sibling Selector: hl~p {} If you had two < p> elements that are sibilings of an < h1> element, this rule would apply.
 
 ### How CSS Rules Cascade
 - If there are two or more rules that apply to the same element, it is important to understand which will take place. 
@@ -188,18 +187,23 @@ What we will cover in this section:
 2. Giving instructions 
 
 ### Statements
-- A script is a series of instructions that a computer can follow one-by-one. Each individual instruction or step is known as a statement.
+- A script is a series of instructions that a computer can follow one-by-one. Each instruction or step is known as a statement.
 
 ### Comments
-- Wiriting comments to explain what your code does is a good practice. It's a great way for you to navigate the written code and understand what you have written. 
+- Writing comments to explain what your code does is a good practice. It's a great way for you to navigate the written code and understand what you have written. 
 
 ### What is a variable
-- A script will have to temporarily store the bits of information it needs to do its job. It can sotre this data in variables, variables change or vary each time a script runs. 
+- A script will have to temporarily store the bits of information it needs to do its job. It can store this data in variables, variables change, or vary each time a script runs. 
 
 ### Data Types
-- JavaScript destinguishes between number, strings, and true or false values known as booleans. These are all data types which include, numbers, strings and booleans.
+- JavaScript distinguishes between numbers, strings, and true or false values known as booleans. These are all data types which include, numbers, strings, and booleans.
+
 ### Arrays
-- An array is a special type of variable. It doesn't just store one value; it stores a list of values. Within arrays you have values that are accessed as if they are in a numbered list. 
+- An array is a special type of variable. It doesn't just store one value; it stores a list of values. Within arrays, you have values that are accessed as if they are in a numbered list.
+
+### Expressions 
+- An expression evaluates into a single value. In general, there are two types of expressions. Expressions that assign just a value to a variable, or an expression that uses two or more values to return a single value. 
+- Within an expression there are things called operators; they allow programmers to create a single value from one or more values.
 
 ### Table of Contents
 - [Read 01 Introductions to HTML and JavaScript](Read01.md)
