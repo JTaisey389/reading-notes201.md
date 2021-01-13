@@ -57,10 +57,6 @@ Examples of white space: The whitespace will display each of the paragraphs and 
 - Similar to white space line breaks and horizontal rules are a great tool for displaying the information to the user in a different way. 
 
 Examples: < br /> Line breaks & < hr />
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br> Arcu odio ut sem nulla pharetra diam sit amet. <br/> Nulla malesuada pellentesque elit eget.
-
-Rutrum tellus pellentesque eu tincidunt. Est ultricies integer quis auctor elit sed vulputate. In hendrerit gravida rutrum quisque non tellus orci ac.
-<hr> Leo duis ut diam quam nulla porttitor massa id neque. Urna nunc id cursus metus aliquam eleifend mi. Faucibus pulvinar elementum integer enim. In arcu cursus euismod quis. Rutrum tellus pellentesque eu tincidunt tortor aliquam. Ut venenatis tellus in metus vulputate eu scelerisque felis.</hr>
 
 ### Visual Editors & Their Code Views
 - Content management systems and HTML editors such as VS Code usually have two views of the page you are creating. A visual editor and a code view. 
