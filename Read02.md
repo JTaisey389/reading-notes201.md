@@ -32,6 +32,20 @@ Example of paragraphs:
 
 <p>What's the matter with you? Is this what you've become, a Hollywood finocchio who cries like a woman? "Oh, what do I do? What do I do?" What is that nonsense? Ridiculous! I don't like violence, Tom. I'm a businessman; blood is a big expense. Why do you hurt me, Michael? I've always been loyal to you. It's an old habit. I spent my whole life trying not to be careless.</p>
 
+### Bold & Italic
+- Once you have created a paragraph some users may want to add additional emphasis on words, sentences, or possibly the whole paragraph. These are just two options that you could use, but there are so many more at your disposal. As a reminder, you have to have an opening tag and a closing tag. 
+
+Examples of using bold & italics: `<b> & </b> Bold Tag, <i> & </i> Italic tag`
+<p>What's the matter with you? Is this what you've become, a Hollywood finocchio who cries like a woman? <b>"Oh, what do I do?</b> What do I do?" What is that nonsense? Ridiculous! I don't like violence, Tom.
+<p>Augue neque gravida in fermentum et sollicitudin ac orci phasellus. <i> In pellentesque massa placerat duis ultricies lacus sed.</i> Amet volutpat consequat mauris nunc congue.
+
+### Superscript & Subscript
+- Superscript and subscripts are a wonderful way that you can increase the functionality of your text. For example, if you wanted to talk about E=MC2 a superscript would help you write that. The same would apply to subscript and as an example, we will use CO2.
+
+Examples: `<sup></sup> Superscript tag, <sub></sub> Subscript tag`
+`<p>E=MC<sup>2</sup>`
+
+`<p>CO<sub>2</sub>`
 
 ### Table of Contents
 - [Read 01 Introductions to HTML and JavaScript](Read01.md)
