@@ -47,6 +47,28 @@ Examples: `<sup></sup> Superscript tag, <sub></sub> Subscript tag`
 
 `<p>CO<sub>2</sub>`
 
+### White Space
+- For code to be easier to read, web page authors often add extra spaces or start some elements on new lines. 
+
+Examples of white space: The whitespace will display each of the paragraphs and make it easier for the user to read. 
+`<p>Why is the grass green?</p>`
+`<p>How does the wind blow?</p>`
+`<p>Does Jim know his pumpkins are safe?</p>`
+
+### Line Breaks & Horizontal Rules
+- Similar to white space line breaks and horizontal rules are a great tool for   displaying the information to the user in a different way.
+
+
+### Visual Editors & Their Code Views
+- Content management systems and HTML editors such as VS Code usually have two views of the page you are creating. A visual editor and a code view. 
+
+Visual editors are similar to word processors. Each editor will differ slightly, there are some features that are common to most editors that allow you to control the presentation of text. 
+
+Code views show you the code created by the visual editor so you can manually edit it, or so you can just enter new code yourself. All of the content on this page I have been editing in a code view and previewing with the visual editor. 
+
+### Semantic Markup
+- Some text elements are not affected by the structure of your webpages, but they do add extra information to the pages. They are known as semantic markup, the latter part will cover semantic markup. 
+
 ### Table of Contents
 - [Read 01 Introductions to HTML and JavaScript](Read01.md)
 - [Read 03 HTML List CSS Boxes JS Control Flow](Read03.md)
