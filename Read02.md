@@ -36,7 +36,8 @@ Example of paragraphs:
 - Once you have created a paragraph some users may want to add additional emphasis on words, sentences, or possibly the whole paragraph. These are just two options that you could use, but there are so many more at your disposal. As a reminder, you have to have an opening tag and a closing tag. 
 
 Examples of using bold & italics: `<b> & </b> Bold Tag, <i> & </i> Italic tag`
-<p>What's the matter with you? Is this what you've become, a Hollywood finocchio who cries like a woman? <b>"Oh, what do I do?</b> What do I do?" What is that nonsense? Ridiculous! I don't like violence, Tom.
+<p>What's the matter with you? Is this what you've become, a Hollywood finocchio who cries like a woman? <b>"Oh, what do I do?</b> What do I do?" What is that nonsense? Ridiculous! I don't like violence, Tom.</p>
+
 <p>Augue neque gravida in fermentum et sollicitudin ac orci phasellus. <i> In pellentesque massa placerat duis ultricies lacus sed.</i> Amet volutpat consequat mauris nunc congue.</p>
 
 ### Superscript & Subscript
