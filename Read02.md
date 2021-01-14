@@ -37,7 +37,7 @@ Example of paragraphs:
 
 Examples of using bold & italics: `<b> & </b> Bold Tag, <i> & </i> Italic tag`
 <p>What's the matter with you? Is this what you've become, a Hollywood finocchio who cries like a woman? <b>"Oh, what do I do?</b> What do I do?" What is that nonsense? Ridiculous! I don't like violence, Tom.
-<p>Augue neque gravida in fermentum et sollicitudin ac orci phasellus. <i> In pellentesque massa placerat duis ultricies lacus sed.</i> Amet volutpat consequat mauris nunc congue.
+<p>Augue neque gravida in fermentum et sollicitudin ac orci phasellus. <i> In pellentesque massa placerat duis ultricies lacus sed.</i> Amet volutpat consequat mauris nunc congue.</p>
 
 ### Superscript & Subscript
 - Superscript and subscripts are a wonderful way that you can increase the functionality of your text. For example, if you wanted to talk about E=MC2 a superscript would help you write that. The same would apply to subscript and as an example, we will use CO2.
