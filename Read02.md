@@ -152,6 +152,83 @@ Example: `<s></s>` Strikethrough tag
 `<p><s>Was $2,995</s></p>`
 `<p>Now only $2,994</p>`
 
+### ***Introductions to CSS***
+What we will cover in this section:
+ 1. What CSS Does
+
+ 2. How CSS Works
+
+ 3. Rules, Properties, and Values
+
+### Understanding CSS: Thinking within the box
+- To understand how CSS works is to imagine there is an invisible box around every HTML element. With CSS this allows you to create rules that control the way that each individual box and the content of that box is presented.
+
+### CSS Associates Style with rules and elements in HTML
+- CSS will contain a selector and a declaration. 
+
+Example: p {font-family: times;}
+- P is the selector and within the currly brackets is the declaration
+
+Within declarations, you have a property and a value. 
+Example: {font-family: Arial; color: yellow;}
+- The property is the font family with the value being Arial.
+
+### External CSS
+- With CSS you can link external documents to CSS. If you have an HTML page you would need to link your CSS to that sheet. 
+
+Example: < link href="css/style.css" type="text/css" rel="stylesheet"/>
+You are probably asking yourself what did I just type. Well here is the explanation!
+ The link to tell your browser where to find the CSS files to be used. href specifies the path to the CSS files, type refers to the type of document. Finally, rel specifies the relationship between the HTML page and the file it's linked to. 
+
+### Using Internal CSS
+- Just like external CSS you have the option to use internal CSS. Internal CSS works, in the same way, external CSS and it will apply a style to a selector you have chosen. 
+
+### CSS Selectors
+- There are multiple types of selectors that allow you to target specific rules to an HTML element.
+
+Overview of Selectors:
+- Universal Selector: * {} These target all elements on a page
+- Type Selector: h1, h2,h3, {} Targets specific elements
+- Class Selector: .note {} Targets any element whose class attribute has a value of note
+  p.note {} Targets only < p> elements whose class attribute has a value of note
+- ID Selector: #introduction {} Targets elements whose id attribute has a value of introduction
+- Child Selector: li>a {} Targets any < a> elements that are children of an < li> element
+- Descendant Selector: p a {} Targets and < a> elements that sit inside a < p> element, even if there are other elements nested between them
+- Adjacent Sibiling Selector: hl+p {} Targets the first < p> element after any < h1> element, but not other < p> elements
+- General Sibling Selector: hl~p {} If you had two < p> elements that are sibilings of an < h1> element, this rule would apply.
+
+### How CSS Rules Cascade
+- If there are two or more rules that apply to the same element, it is important to understand which will take place. 
+- If the two selectors are identical, the latter of the two will take precedence.
+- If there is a selector that is more specific than the others, the more specific rule will take precedence over more general ones.
+
+### Inheritance
+- If you specify the font-family or color properties on a body element they will apply to most child elements. That is because the value of the font-family property is inherited by child elements. 
+
+### ***Introduction to JavaScript***
+What we will cover in this section:
+1. The language syntax and grammar
+2. Giving instructions 
+
+### Statements
+- A script is a series of instructions that a computer can follow one-by-one. Each instruction or step is known as a statement.
+
+### Comments
+- Writing comments to explain what your code does is a good practice. It's a great way for you to navigate the written code and understand what you have written. 
+
+### What is a variable
+- A script will have to temporarily store the bits of information it needs to do its job. It can store this data in variables, variables change, or vary each time a script runs. 
+
+### Data Types
+- JavaScript distinguishes between numbers, strings, and true or false values known as booleans. These are all data types which include, numbers, strings, and booleans.
+
+### Arrays
+- An array is a special type of variable. It doesn't just store one value; it stores a list of values. Within arrays, you have values that are accessed as if they are in a numbered list.
+
+### Expressions 
+- An expression evaluates into a single value. In general, there are two types of expressions. Expressions that assign just a value to a variable, or an expression that uses two or more values to return a single value. 
+- Within an expression there are things called operators; they allow programmers to create a single value from one or more values.
+
 ### Table of Contents
 - [Read 01 Introductions to HTML and JavaScript](Read01.md)
 - [Read 03 HTML List CSS Boxes JS Control Flow](Read03.md)
