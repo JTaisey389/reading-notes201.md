@@ -56,7 +56,7 @@ Examples of white space: The whitespace will display each of the paragraphs and 
 ### Line Breaks & Horizontal Rules
 - Similar to white space line breaks and horizontal rules are a great tool for displaying the information to the user in a different way. 
 
-Examples: `<br/> Line breaks & <hr/>`
+Examples: `<br/>Line breaks<hr/>`
 
 ### Visual Editors & Their Code Views
 - Content management systems and HTML editors such as VS Code usually have two views of the page you are creating. A visual editor and a code view. 
@@ -114,15 +114,15 @@ Example: `<address></address> Address tag`
 ### Changes to content
 - Changing content in HTML also gives you the functionality to insert or delete elements within a document. These are < ins> and < del> elements, which are insert and delete. 
 
-Example: < ins>< /ins> Insert tag, < del>< /del> Delete tag
-<p>It was the <del>worst</del> <ins>best</best> idea she ever had.</p>
+Example: `<ins></ins> Insert tag, <del></del> Delete tag`
+`<p>It was the <del>worst</del> <ins>best</best> idea she ever had.</p>`
 
-- In addition to those elements a < s> element indicates something that is no longer accurate or relevant.
-Example: < s>< /s> Strikethrough tag
+- In addition to those elements a `<s>` element indicates something that is no longer accurate or relevant.
+Example: `<s></s>` Strikethrough tag
 
-<p>Laptop computer: Apple MacBook Pro</p>
-<p><s>Was $2,995</s></p>
-<p>Now only $2,994</p>
+`<p>Laptop computer: Apple MacBook Pro</p>`
+`<p><s>Was $2,995</s></p>`
+`<p>Now only $2,994</p>`
 
 ### ***Introductions to CSS***
 What we will cover in this section:
