@@ -65,6 +65,31 @@ Code views show you the code created by the visual editor so you can manually ed
 ### Semantic Markup
 - Some text elements are not affected by the structure of your webpages, but they do add extra information to the pages. They are known as semantic markup, the latter part will cover semantic markup. 
 
+### Strong & Emphasis
+- These are similar to bold and italics but differ with how they are applied and how they affect the text. 
+
+Examples:`<strong></strong> Strong tag, <em></em>`
+`<p><strong>Beware:</strong> Squirrels are cute, but are nuts.</p>`
+`<p>This vessle contains harmfull liquids <strong>do not consume this liquid, it will cause death</strong></p>`
+
+`<p>I think <em>Marsha</em> broke her nose</p>`
+
+### Quotations
+- Quotations consist of two elements used to markup quotations. 
+
+Examples: `<blockquote></blockquote> Blockquote tags, <q></q> Quote tag`
+`<blockquote cite"http://en.wikipedia.org/wiki/Winnie-the-Pooh">`
+`<p>Did you ever stop to think, and forget to start again</p>`
+`</blockquote>`
+`<p>As A.A. Milne said, <q>Some people talk to animals. Not many listent though. That's the problem</q></p>`
+
+### Abbreviations
+- Abbreviations are a way that the user can show the title of an attribute. For this example, I will spell the code out followed by demonstrating the code. 
+
+Example:
+`< p>< abbr title="Professor">Prof< /abbr> Stephen Hawking is a theoretical physicist and cosmologist.< /p>`
+`<p>< acronym title="National Aeornautics and Space Administration">NASA< /acronym> do some crazy space stuff.</p>`
+
 ### Table of Contents
 - [Read 01 Introductions to HTML and JavaScript](Read01.md)
 - [Read 03 HTML List CSS Boxes JS Control Flow](Read03.md)
