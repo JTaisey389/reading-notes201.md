@@ -56,7 +56,7 @@ Examples of white space: The whitespace will display each of the paragraphs and 
 ### Line Breaks & Horizontal Rules
 - Similar to white space line breaks and horizontal rules are a great tool for displaying the information to the user in a different way. 
 
-Examples: < br /> Line breaks & < hr />
+Examples: `<br/> Line breaks & <hr/>`
 
 ### Visual Editors & Their Code Views
 - Content management systems and HTML editors such as VS Code usually have two views of the page you are creating. A visual editor and a code view. 
@@ -71,36 +71,32 @@ Code views show you the code created by the visual editor so you can manually ed
 ### Strong & Emphasis
 - Thes are similar to bold and italics but differ with how they are applied and how they affect the text. 
 
-Examples: < strong>< /strong> Strong tag, < em>< /em>
-<p><strong>Beware:</strong> Squirrels are cute, but are nuts.</p>
-<p>This vessle contains harmfull liquids <strong>do not consume this liquid, it will cause death</strong></p>
+Examples: `<strong></strong> Strong tag, <em></em>`
+`<p><strong>Beware:</strong> Squirrels are cute, but are nuts.</p>`
+`<p>This vessle contains harmfull liquids <strong>do not consume this liquid, it will cause death</strong></p>`
 
-<p>I think <em>Marsha</em> broke her nose</p>
+`<p>I think <em>Marsha</em> broke her nose</p>`
 
 ### Quotations
 - Quotations consist of two elements used to markup quotations. 
 
-Examples: < blockquote>< /blockquote> Blockquote tags, < q>< /q> Quote tag
-<blockquote cite"http://en.wikipedia.org/wiki/Winnie-the-Pooh">
- <p>Did you ever stop to think, and forget to start again</p>
-</blockquote>
-<p>As A.A. Milne said, <q>Some people talk to animals. Not many listent though. That's the problem</q></p>
+Examples: `<blockquote></blockquote> Blockquote tags, <q></q> Quote tag`
+`<blockquote cite"http://en.wikipedia.org/wiki/Winnie-the-Pooh">`
+`<p>Did you ever stop to think, and forget to start again</p>`
+`</blockquote>`
+`<p>As A.A. Milne said, <q>Some people talk to animals. Not many listent though. That's the problem</q></p>`
 
 ### Abbreviations
 - Abbreviations are a way that the user can show the title of an attribute. For this example, I will spell the code out followed by demonstrating the code. 
 
-Example: Spelled out
-< p>< abbr title="Professor">Prof< /abbr> Stephen Hawking is a theoretical physicist and cosmologist.< /p>
-< p>< acronym title="National Aeornautics and Space Administration">NASA< /acronym> do some crazy space stuff.< /p>
-
-Example: In Use
-<p><abbr title="Professor">Prof</abbr> Stephen Hawking is a theoretical physicist and cosmologist.</p>
-<p><acronym title="National Aeornautics and Space Administration">NASA</acronym> do some crazy space stuff.</p>
+Example:
+`< p>< abbr title="Professor">Prof< /abbr> Stephen Hawking is a theoretical physicist and cosmologist.< /p>`
+`<p>< acronym title="National Aeornautics and Space Administration">NASA< /acronym> do some crazy space stuff.</p>`
 
 ### Citations & Defenitions
 - Building upon the framework of HTML, citations, and definitions are great attributes to format your webpage. Cite allows you to reference someone's work like that of a book, and dfn terminology to a user.
 
-Example: < cite>< /cite> Citation tags, < dfn>< /dfn> tags
+Example: `<cite></cite> Citation tags, <dfn></dfn> tags`
 <p><cite>A Brief History of Time</cite> by Stephen Hawking has sold over ten million copies worldwide. </p>
 
 <p>A <dfn>black hole</dfn> is a region of space from which nothing, not even light, can escape.</p>
@@ -108,12 +104,12 @@ Example: < cite>< /cite> Citation tags, < dfn>< /dfn> tags
 ### Author Details
 - The < address> element has a specific use: to contain contact details for the author of the page.
 
-Example: < address>< /address> Address tag
-<address>
- <p><a href="mailto:homer@example.org">
- homer@example.org</a></p>
- <p>742 Evergreen Terrace, Springfield.</p>
-</address>
+Example: `<address></address> Address tag`
+`<address>`
+ `<p><a href="mailto:homer@example.org">`
+ `homer@example.org</a></p>`
+ `<p>742 Evergreen Terrace, Springfield.</p>`
+`</address>`
 
 ### Changes to content
 - Changing content in HTML also gives you the functionality to insert or delete elements within a document. These are < ins> and < del> elements, which are insert and delete. 
