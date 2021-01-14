@@ -25,7 +25,7 @@ As you create a web page, you add tags known as markup to the contents of the pa
 <h6>Level six heading</h6>
 
 ### Paragraphs
-- In order to create a paragraph, you would surround the words that make up the paragraph with an opening < p> tag and a closing < /p> tag. By default, a browser would show you each paragraph on a new line with some space between it. 
+- In order to create a paragraph, you would surround the words that make up the paragraph with an opening `<p> tag and a closing </p>` tag. By default, a browser would show you each paragraph on a new line with some space between it. 
 
 Example of paragraphs:
 <p>I'm gonna make him an offer he can't refuse. It's not personal. It's in business. Mr. Corleone is Johnny Fontane's godfather. Now Italians regard that as a very close, very sacred religious relationship. Very well. You want to do business with me. I will do business with you</p>
