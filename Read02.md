@@ -32,6 +32,37 @@ Example of paragraphs:
 
 <p>What's the matter with you? Is this what you've become, a Hollywood finocchio who cries like a woman? "Oh, what do I do? What do I do?" What is that nonsense? Ridiculous! I don't like violence, Tom. I'm a businessman; blood is a big expense. Why do you hurt me, Michael? I've always been loyal to you. It's an old habit. I spent my whole life trying not to be careless.</p>
 
+### Citations & Defenitions
+- Building upon the framework of HTML, citations, and definitions are great attributes to format your webpage. Cite allows you to reference someone's work like that of a book, and dfn terminology to a user.
+
+Example: `<cite></cite> Citation tags, <dfn></dfn> tags`
+<p><cite>A Brief History of Time</cite> by Stephen Hawking has sold over ten million copies worldwide. </p>
+
+<p>A <dfn>black hole</dfn> is a region of space from which nothing, not even light, can escape.</p>
+
+### Author Details
+- The < address> element has a specific use: to contain contact details for the author of the page.
+
+Example: `<address></address> Address tag`
+`<address>`
+ `<p><a href="mailto:homer@example.org">`
+ `homer@example.org</a></p>`
+ `<p>742 Evergreen Terrace, Springfield.</p>`
+`</address>`
+
+### Changes to content
+- Changing content in HTML also gives you the functionality to insert or delete elements within a document. These are < ins> and < del> elements, which are insert and delete. 
+
+Example: `<ins></ins> Insert tag, <del></del> Delete tag`
+`<p>It was the <del>worst</del> <ins>best</best> idea she ever had.</p>`
+
+- In addition to those elements a `<s>` element indicates something that is no longer accurate or relevant.
+Example: `<s></s>` Strikethrough tag
+
+`<p>Laptop computer: Apple MacBook Pro</p>`
+`<p><s>Was $2,995</s></p>`
+`<p>Now only $2,994</p>`
+
 ### Bold & Italic
 - Once you have created a paragraph some users may want to add additional emphasis on words, sentences, or possibly the whole paragraph. These are just two options that you could use, but there are so many more at your disposal. As a reminder, you have to have an opening tag and a closing tag. 
 
