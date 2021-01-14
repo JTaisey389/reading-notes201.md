@@ -1,3 +1,7 @@
+# Code 201 Reading Notes
+
+## Read 03 Notes & Informatiom
+
 ### ***Lists***
 What we will cover in this section:
  1. Numbered Lists
