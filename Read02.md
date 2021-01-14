@@ -43,9 +43,6 @@ Examples of using bold & italics: `<b> & </b> Bold Tag, <i> & </i> Italic tag`
 - Superscript and subscripts are a wonderful way that you can increase the functionality of your text. For example, if you wanted to talk about E=MC2 a superscript would help you write that. The same would apply to subscript and as an example, we will use CO2.
 
 Examples: `<sup></sup> Superscript tag, <sub></sub> Subscript tag`
-`<p>E=MC<sup>2</sup>`
-
-`<p>CO<sub>2</sub>`
 
 ### White Space
 - For code to be easier to read, web page authors often add extra spaces or start some elements on new lines. 
