@@ -13,7 +13,7 @@ Images should be:
 1. Relevant
 2. Convey Information
 3. Convey the right mood
-4. Be instantly recoginizable
+4. Be instantly recognizable
 5. Fit the color pallet
 
 ### Image Storage
@@ -36,7 +36,7 @@ Images should be:
 - JPEG, GIF, and PNG
 
 ### Figures and Figure Caption
-- Figure elements contain and image and their caption.
+- Figure elements contain an image and their caption.
 - Figcatpion allows the author to add a caption to a page
 
 ### ***Color***
@@ -48,54 +48,54 @@ Images should be:
  - RGB Values, HEX Codes, Color Names, 
  - Hue, Saturation, Brightness
 
-CSS treats each HMTL element as it appears in a box, and the back-ground color properth sets the color of the bacjground for that box.
+CSS treats each HMTL element as it appears in a box, and the background-color property sets the color of the background for that box.
 
 ### CSS3 Opactiy
-- With the introduction of CSS3 you have the capacity to change the opactiy of the color with a couple of options. Additionally CSS3 allows you to control the ammount of saturation within the color.
+- With the introduction of CSS3 you can change the opacity of the color with a couple of options. Additionally, CSS3 allows you to control the amount of saturation within the color.
 
 Example: RGBA, HSL, HSLA
 
 ### ***Text***
 What we will cover in this section:
- 1. Size and typeface of text
+ 1. Size and typeface of the text
  2. Bold, italics, capitals, underlines
  3. Spacing between lines, words, and letters
 
 ### Terminology of Typeface
-- Serif, Sans-Serif, Monospace, Weight, Style, and Streth
+- Serif, Sans-Serif, Monospace, Weight, Style, and Stretch
 
-All these contol the look and the feel of the text, additionally some text read better on paper than they do on screen. 
+All these control the look and the feel of the text, additionally, some text read better on paper than they do on screen. 
 
 ### Wider Choices of Typefaces
-- There are several ways to use fonts other than those listed above. Keep in mind typfaces are suject to copywright, so the techniques you can choose from are limited by the license. 
+- There are several ways to use fonts other than those listed above. Keep in mind typefaces are subject to copyright, so the techniques you can choose from are limited by the license. 
 
-Examples: Font-Family, Font-Face, Service Based Font-Face, Images, SIFR, Cufon
+Examples: Font-Family, Font-Face, Service-Based Font-Face, Images, SIFR, Cufon
 
 ### Type Scales
-- Type scales are the size at which you see font. Most commonly if you were to look at a word processor you would see a common set of sizes.
+- Type scales are the size at which you see the font. Most commonly if you were to look at a word processor you would see a common set of sizes.
 
 Examples: 8,9,10,11,13,14,18,24,36,48,60,72
 
 - Within the type of scales you have the units that signify the size of a text to something like that of a heading.
 
-Example: Pixles, Percentages, EMS
+Example: Pixels, Percentages, EMS
 
 ### Styling of Fonts
 - With the styling of fonts most commonly you use either bold or italics.
 
 Examples: *Italics*, **bold**
 
-### Transoformation of Text
-- The text transform property is used to change the case or apply a decoration to the text.
+### Transformation of Text
+- The text-transform property is used to change the case or apply decoration to the text.
 
-Examples: Uppdercase, Lowercase, Capitalize.
+Examples: Uppercase, Lowercase, Capitalize.
 
 Examples: Text - Decorations: None, Underline, Overline, Line-through, Blink
 
-### How you veiw text 
-- As you dive deaper into veiwing text there are three important adjustments that can greatly impact the legability of the text on the screen.
+### How you view text 
+- As you dive deeper into viewing text three important adjustments can greatly impact the legibility of the text on the screen.
 
-Example: Leading is the distant between the bottom of the text and the top.
+Example: Leading is the distance between the bottom of the text and the top.
 
 Example: Kerning is the term used for the space between each letter. 
 
@@ -105,27 +105,26 @@ Example: Text Alignment: Left, Right, Center, Justify
 
 Example: Vertical Align: Baseline, Sub, Super, Top, Top-Text, Middle, Bottom, Text-Bottom
 
-- Lastly you can also indent the text, this allows the creator a way to show importance within a document
+- Lastly, you can also indent the text, this allows the creator a way to show importance within a document
 
 ### Styling Text With CSS
 - As with text choices, sizes, locations. You can also style the text to give it flair.
 
 Example: Text-Shadow
 
-Example: You can capital first letters, or first lines. These are psuedo-elements
+Example: You can capital first letters or first lines. These are pseudo-elements
 
-Example: With links to other pages, typically they are blue. With styling you can change the color of the link. 
+Example: With links to other pages, typically they are blue. With styling, you can change the color of the link. 
 
 ### Responding to Users
-- With this tool, you start to bring your page to live. 
+- With this tool, you start to bring your page to life. 
 
 Example: Hover, Active, Focus
 
 ### Attribute Selection
-- In the book you were introduces to a popular set of CSS selectors. There are also attributes that allow you to creat rules that apply to elements. 
+- In the book, you were introduced to a popular set of CSS selectors. There are also attributes that allow you to create rules that apply to elements. 
 
 Example: Existence, Equality, Space, Prefix, Substring, Suffix
-
 
 ### Table of Contents
 - [Read 01 Introductions to HTML and JavaScript](Read01.md)
