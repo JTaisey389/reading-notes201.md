@@ -1,5 +1,5 @@
 # Code 201 Reading Notes
-## Read 06
+## Read 07
 ### ***Tables***
 What we will cover in this section:
 1. How to create tables
