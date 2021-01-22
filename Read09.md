@@ -128,8 +128,45 @@ Example: Inherit. If you have one table nested inside of another, the inherit va
 ### ***Events***
 - When you browse the web, your browser registers different types of events. This is your way of the browsers saying, "Hey, this just happened".
 
+UI Events: Load, Unload, Erroe, Resize, Scroll
 
+Keyboard Events: Keydown, Keyup, Keypress
 
+Mouse Events: Click, dbClick, mousedown, mouseup, mousemove, mouseover, mouseout
+
+Event: Focus/Focusin, blur/focusout
+
+Form Event: Input, Change, Submit, Reset, Cut, Copy, Paste, Select
+
+### How Events Trigger Javascript
+- When the user interacts with the HTML on a webpage, there are three steps involved in getting it to trigger some JavaScript code. 
+1. Select the element
+2. Indicate which event will trigger response
+3. State the code you want to run
+
+### There are three ways to bind an element
+1. HTML Handler Events (no longer used)
+2. Traditional DOM event handlers
+3. DOM lvel 2 event listeners
+
+### Event Listeners
+- Event listeners are a more recent approash to handling events. They can deal with more than one function at a time, but they are not supported in older browsers.
+
+### Event Flow
+- HTLM Elements nest inside of other elements. If you hover or click on a link, you will also be hovering or clicking on its parent element.
+
+- Why flow matters: Flows of events only really matters when your code has event handlers on an element and one of its ancestors or decendant elements. 
+
+### The event object
+- When an event occcirs, the event object tells you information about the event, and the element it happened upon.
+
+### Different types of Events
+1. W3C Dom events, which looks after other specifications including, HTML, CSS and XML.
+2. HTML 5 Events
+3. BOM Events
+
+### User Interface Events
+- UI events occur as a result of interaction with the browser window rather than the HTML page contained within it. 
 
 ### Table of Contents
 - [Read 01 Introductions to HTML and JavaScript](Read01.md)
