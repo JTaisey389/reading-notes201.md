@@ -1,5 +1,24 @@
 # Code 201 Reading Notes
 
+## Charts and Canvas
+
+### Easily Create Stunning Animated Charts 
+- Charts are far better for displaying visually than tables and have the added benefit that no one is going to press-gang them into yse as a layout tool. A great way to get started with charts is with Chart.js a JavaScript plugin that uses HTML5's canvas element to draw the graph onto the page. 
+
+### Setting it up
+- First step is to download Chart.js. Copy the Chart.min.js out of the unzipped folder and into the directory you'll be working on. Then create a new html page and import the script.
+
+HTML for the page 
+`<!DOCTYPE html>`
+`<html lang="en">`
+    `<head>
+        `<meta charset="utf-8" />`
+        `<title>Chart.js demo</title>`
+        `<script src='Chart.min.js'></script>`
+    `</head>`
+    `<body>`
+    `</body>`
+`</html>`
 ### Table of Contents
 - [Read 01 Introductions to HTML and JavaScript](Read01.md)
 - [Read 02 HTML CSS Javascript The Introduction](Read02.md)
