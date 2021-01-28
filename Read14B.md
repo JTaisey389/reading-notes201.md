@@ -2,6 +2,21 @@
 
 ### Introductions to HTML and Javascript:
 
+### What Google Learned From Its Quest to build The Perfect Team
+
+- We are living through a golden age of understanding personal productivity. People pick apart the small choices that all of us make, descisions that most of us don't notice, and figure out why some people are more effective than everone else.
+
+- Google has become focused on building the perfect team. The tech giant has spent untold millions of dollars measuring nearly every aspect of its employees' lives. Google's people operations decpartment has scrutinized everything from how frequently particular people eat together. 
+
+- Productive employees tend to build larger networks by rotatin dinning companions to which traits the best managers share. What Google realised is that the best teams meant combining the best people. With this idea they embraces the coventional wisdonm that putting introverts together was sucesfull. 
+
+- Project Aristotle was launched by Google as an intiative to stude hundreds of Google's teams to figure out why some soared and some stumbled. Despite the effort to arrange the Data it was almost impossible to find patterns or any evidence that a compostition of a team made a difference.
+
+- As Project Aristotle reasearch began looking through the data they had colected, they looked for norms. For instances when team memebers described a particular behavior as an unwritten rule. What they discovered after a year of reasearch is that influencing group norms were the keys to improve Google's teams.
+
+- What was discovered is that the free-flowing team encourages equal speak amongst the group. This group though it was less efficiant than the serious minded team, the free-flowing teams sum will be greater than it's parts. Within psychology, reasearchers sometimes refer to trais like conversational turn-taking and average social sensitivity. 
+
+
 
 
 ### Table of Contents
