@@ -4,19 +4,27 @@
 
 ### What Google Learned From Its Quest to build The Perfect Team
 
-- We are living through a golden age of understanding personal productivity. People pick apart the small choices that all of us make, descisions that most of us don't notice, and figure out why some people are more effective than everone else.
+- We are living through a golden age of understanding personal productivity. People pick apart the small choices that all of us make, decisions that most of us don't notice, and figure out why some people are more effective than everyone else.
 
-- Google has become focused on building the perfect team. The tech giant has spent untold millions of dollars measuring nearly every aspect of its employees' lives. Google's people operations decpartment has scrutinized everything from how frequently particular people eat together. 
+- Google has become focused on building the perfect team. The tech giant has spent untold millions of dollars measuring nearly every aspect of its employees' lives. Google's people operations department has scrutinized everything from how frequently particular people eat together. 
 
-- Productive employees tend to build larger networks by rotatin dinning companions to which traits the best managers share. What Google realised is that the best teams meant combining the best people. With this idea they embraces the coventional wisdonm that putting introverts together was sucesfull. 
+- Productive employees tend to build larger networks by rotating dinning companions to which traits the best managers share. What Google realized is that the best teams meant combining the best people. With this idea they embraces the conventional wisdom that putting introverts together was successful. 
 
-- Project Aristotle was launched by Google as an intiative to stude hundreds of Google's teams to figure out why some soared and some stumbled. Despite the effort to arrange the Data it was almost impossible to find patterns or any evidence that a compostition of a team made a difference.
+- Project Aristotle was launched by Google as an initiative to study hundreds of Google's teams to figure out why some soared and some stumbled. Despite the effort to arrange the Data it was almost impossible to find patterns or any evidence that a composition of a team made a difference.
 
-- As Project Aristotle reasearch began looking through the data they had colected, they looked for norms. For instances when team memebers described a particular behavior as an unwritten rule. What they discovered after a year of reasearch is that influencing group norms were the keys to improve Google's teams.
+- As Project Aristotle research began looking through the data they had collected, they looked for norms. For instances when team members described a particular behavior as an unwritten rule. What they discovered after a year of research is that influencing group norms were the keys to improve Google's teams.
 
-- What was discovered is that the free-flowing team encourages equal speak amongst the group. This group though it was less efficiant than the serious minded team, the free-flowing teams sum will be greater than it's parts. Within psychology, reasearchers sometimes refer to trais like conversational turn-taking and average social sensitivity. 
+- What was discovered is that the free-flowing team encourages equal speak amongst the group. This group though it was less efficient than the serious minded team, the free-flowing teams sum will be greater than its parts. Within psychology, researchers sometimes refer to traits like conversational turn-taking and average social sensitivity. 
 
+- Psychological safety is a "sense of confidence that the team will not embarrass, or reject or punish someone for speaking up". With psychological safety people felt that taking a risk was worth the reward and the group was in a safe space. There were situations where some teams left individuals exhausted and others gained boughs of energy. 
 
+- What project Aristotle discovered is that other behaviors seemed important as well, like making sure teams had clear goals and creating a culture of dependability. The research team had finally discovered what norms were most critical, and they had to find a way to make communication and empathy.
+
+- One discovery a member of one of the teams has is that if they couldn't be open and honest at work, then they really were not living. What the project has taught people within Google is that **no one want to put on a "work face" when they get to the office.** 
+
+- Technology is not just one of the fastest growing parts of our economy; it is increasingly the world's dominant commercial culture. What Google has done is demonstrate the usefulness of imperfection, and to create psychological safety faster.
+
+- **What the project brought to attention is a reminder that when companies try to optimize everything, it's sometimes easy to forget that success is often built on experiences. One of the team members of the project recalled a situation with a former team "I was in a meeting where I made a mistake". The team member sent out a note afterward explaining how she was going to remedy the problem. She received an email response back from a team member that said "Ouch". It was like a punch to the gut, and she was already upset about making this mistake, and this played into her insecurities.**
 
 
 ### Table of Contents
