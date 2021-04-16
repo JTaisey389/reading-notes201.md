@@ -1,14 +1,17 @@
 # Code 201 Reading Notes
 
-### Weclome to my reading notes webpage. 
+### Weclome to my reading notes webpage
+
   1. In this 201 Reading notes I will go over the various topics that will be covered throughout the course.
   2. My table of contents has links to alll the class readings and notes  I will take for the course.
   3. For those who don't know me I have my about me section bellow!
 
 ### About Me
-Hello everyone! My name is Jason Taisey and I come from the *Project Management* industry. In 2020 I realised that the career trajectory that  I was on did not make me happy, and I realised towards the end of 2020 that I needed to change. **Change** is what i did and I make the decision to leave my full time job as a *Project Manager* to go back to school full time. 
+
+Hello everyone! My name is Jason Taisey and I come from the *Project Management* industry. In 2020 I realised that the career trajectory that  I was on did not make me happy, and I realised towards the end of 2020 that I needed to change. **Change** is what i did and I make the decision to leave my full time job as a *Project Manager* to go back to school full time.
 
 ### Table of Contents
+
 - [Read 01 Introductions to HTML and JavaScript](Read01.md)
 - [Read 02 HTML CSS Javascript The Introduction](Read02.md)
 - [Read 03 HTML List CSS Boxes JS Control Flow](Read03.md)
@@ -19,7 +22,7 @@ Hello everyone! My name is Jason Taisey and I come from the *Project Management*
 - [Read 08 Expanding CSS Layout](Read08.md)
 - [Read 09 Forms & Events](Read09.md)
 - [Read 10 Debugging JavaScript](Read10.md)
-- [Read 11 Assorted Topics](Read11.md) 
+- [Read 11 Assorted Topics](Read11.md)
 - [Read 12 Documents for HTML Canvas Element & Chart JS](Read12.md)
 - [Read 13 Local Storage](Read13.md)
 - [Read 14a CSS Transforms Transitions and Animations](Read14A.md)
@@ -30,3 +33,8 @@ Hello everyone! My name is Jason Taisey and I come from the *Project Management*
 
 ### Link to Code 301
 - [Reading Notes 301](jtaisey389.github.io/reading-notes301.md/)
+
+### Link to Code 401
+- [Reading Notes 401](jtaisey389.github.io/401_readingnotes.md/)
+
+[<== Back_to_reading_notes](jtaisey389.github.io/reading-notes201.md/)
